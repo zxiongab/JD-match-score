@@ -1,0 +1,5 @@
+{
+  "name": "JobMatch AI Extension",
+  "description": "A simulator for a Chrome extension that automatically analyzes job descriptions on the page and displays matching scores.",
+  "requestFramePermissions": []
+}
